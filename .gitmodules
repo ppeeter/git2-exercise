@@ -1,0 +1,4 @@
+[submodule "theModule"]
+	path = theModule
+	url = https://github.com/paven/git2-exercise.git
+	branch = submoduleBranch
